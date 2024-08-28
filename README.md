@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ada-galaxy ✨
+- 👀 I’m interested in ... philosophy 📓 of mind 🤓, fashion 👗, & cats 🐱
+- 🌱 I’m currently learning ... Java 👾
+- 💞️ I’m looking to collaborate on ... any projects in web3 💅
+- ⚡ Fun fact: ... I broke JS6+ on accident once 🤖 console.log, amirite? 
